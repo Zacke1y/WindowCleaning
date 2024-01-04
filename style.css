@@ -39,8 +39,8 @@ footer a
 
 #HomeImg
 {
-    max-width: 450px;
-    min-width: 100px;
+    max-width: 25vw;
+    min-width: 10vw;
     height: auto;
     border-radius: 20px;
 }
