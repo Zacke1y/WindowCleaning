@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400&display=swap');
+
+html, body
+{
+    background-color: #27496D;
+    color: #A5D7E8;
+    font-family: 'Rowdies', sans-serif;
+}
+
+body
+{
+    text-align: center;
+}
+
+header .navbar a
+{
+    margin-left: 20px;
+}
+
+.Home
+{
+    background-color: #0C7B93;
+    border-radius: 20px;
+}
+
+footer
+{
+    background-color: #0C7B93;
+    border-radius: 5px;
+    height: 30px;
+    font-size: 20px;
+}
+
+footer a
+{
+    text-decoration: none;
+    color: #A5D7E8;
+}
+
+#HomeImg
+{
+    max-width: 450px;
+    min-width: 100px;
+    height: auto;
+    border-radius: 20px;
+}
